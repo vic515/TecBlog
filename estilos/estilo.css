@@ -47,5 +47,59 @@ a:link, a:visited {
 a:hover {
 	color: #f7b600;
 	background: #FFF;
+	text-decoration: none;
+}
 
+.principal {
+	position: relative;
+	top: 100px;
+	margin: 0 auto;
+	width: 940px;
+}
+
+h2 {
+	color: #f7b600;
+	margin: 2px 10px 2px 10px;
+}
+h6{
+	padding: 0px 10px 10px 10px;
+	margin-bottom: 15px;
+	margin-top: 1px;
+
+}
+p {
+	margin: 15px;
+	width: 640px;
+}
+.linkinterno {
+	text-decoration: none;
+	background: #FFF;
+	color: #f7b600;
+	font-weight: 600;
+}
+#postagem {
+	float: left;
+	width: 660px;
+	background: #FFF;
+	padding: 5px;
+}
+#menulateral {
+	width: 240px;
+	float: right;
+	top: -200px;
+	background: #FFF;
+	padding: 5px;
+}
+
+h3 {
+	background: #e6e6e6;
+	padding: 5px 10px;
+
+}
+#rodape {
+	background: #ccc;
+	font-weight: 600;
+	text-align: center;
+	clear: both;
+	padding: 15px;
 }
