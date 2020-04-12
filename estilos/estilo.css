@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: Arial , sans-serif;
+	font-size: 1em;
+	background: #e6e6e6;
+}
+
+#cabecalho {
+	background: #f7b600;
+	height: 120px;
+	padding: 15px;
+}
+
+#area-logo {
+	font-weight: 750;
+	text-align: center;
+	position: relative;
+	top: 30px;
+}
+
+#menu {
+	position: relative;
+	text-align: center;
+	top: 40px;
+	padding: 10px;
+	background: #f7b600;
+
+}
+#linkmenu {
+	padding: 7px;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.branco {
+	color: white;
+}
+
+a:link, a:visited {
+	color: #FFF;
+	background: #f7b600;
+}
+a:hover {
+	color: #f7b600;
+	background: #FFF;
+
+}
