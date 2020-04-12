@@ -19,13 +19,13 @@ body {
 	font-weight: 750;
 	text-align: center;
 	position: relative;
-	top: 30px;
+	top: 20px;
 }
 
 #menu {
 	position: relative;
 	text-align: center;
-	top: 40px;
+	top: 30px;
 	padding: 10px;
 	background: #f7b600;
 
